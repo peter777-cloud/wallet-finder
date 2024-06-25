@@ -21,7 +21,7 @@ If you do not agree to these terms, please do not use or distribute this code.
 **Here are the requirements that needs to be available before starting.**
 
  Very good internet connection and device (4/8GB RAM)
-![screen](https://github.com/zick1/wallet-finder/assets/127900514/f0c2fc6d-8175-4442-b94d-9ee4fff10991)
+![screen](https://private-user-images.githubusercontent.com/173209595/342561803-b870ab5c-0c16-4a3f-a60b-04de0db6fe2e.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkyODM4MTIsIm5iZiI6MTcxOTI4MzUxMiwicGF0aCI6Ii8xNzMyMDk1OTUvMzQyNTYxODAzLWI4NzBhYjVjLTBjMTYtNGEzZi1hNjBiLTA0ZGUwZGI2ZmUyZS5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyNVQwMjQ1MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMzc2ZWRhMjhmYzY3YTM5ZDY0NWRlZWRlMDVkMGY5ODRhZTUxMmQ1NmFmNTc0Yzc4NTViNzgxNjJkMDA1MzQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.1eFdpm1t2a_kQRGPYmEgqs0QHkGJEtBwNQRewdF6aBg)
 
 # **Getting Started**
 
